@@ -1,4 +1,4 @@
-# 🔠 Adam Asmaca: Şehir Tahmin Oyunu
+# 🔠 Adam Asmaca: Şehir Tahmin Oyunu (Hangman)
 
 Bu proje, **C# Windows Forms** kullanılarak geliştirilmiş, Türkiye'nin **81 ilini** temel alan eğitsel ve etkileşimli bir kelime tahmin oyunudur. Oyun; **diziler (Arrays)**, **rastgele seçim (Random)**, **string manipülasyonu** ve **event-driven programlama** kavramlarını uygulamalı olarak göstermeyi amaçlar.
 
