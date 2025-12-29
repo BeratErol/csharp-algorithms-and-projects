@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AltinTapinak\bin\Debug\AltinTapinak.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AltinTapinak\bin\Debug\AltinTapinak.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AltinTapinak\bin\Debug\AltinTapinak.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AltinTapinak\obj\Debug\AltinTapinak.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AltinTapinak\obj\Debug\AltinTapinak.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AltinTapinak\obj\Debug\AltinTapinak.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AltinTapinak\obj\Debug\AltinTapinak.pdb

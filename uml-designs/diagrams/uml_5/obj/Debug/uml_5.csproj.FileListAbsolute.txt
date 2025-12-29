@@ -1,0 +1,6 @@
+C:\Users\hesap\source\repos\8.HaftaUygulamasi\uml_5\bin\Debug\uml_5.exe.config
+C:\Users\hesap\source\repos\8.HaftaUygulamasi\uml_5\bin\Debug\uml_5.exe
+C:\Users\hesap\source\repos\8.HaftaUygulamasi\uml_5\bin\Debug\uml_5.pdb
+C:\Users\hesap\source\repos\8.HaftaUygulamasi\uml_5\obj\Debug\uml_5.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\8.HaftaUygulamasi\uml_5\obj\Debug\uml_5.exe
+C:\Users\hesap\source\repos\8.HaftaUygulamasi\uml_5\obj\Debug\uml_5.pdb

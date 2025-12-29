@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AsalSayiToplamlari\bin\Debug\AsalSayiToplamlari.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AsalSayiToplamlari\bin\Debug\AsalSayiToplamlari.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AsalSayiToplamlari\bin\Debug\AsalSayiToplamlari.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AsalSayiToplamlari\obj\Debug\AsalSayiToplamlari.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AsalSayiToplamlari\obj\Debug\AsalSayiToplamlari.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AsalSayiToplamlari\obj\Debug\AsalSayiToplamlari.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\AsalSayiToplamlari\obj\Debug\AsalSayiToplamlari.csprojAssemblyReference.cache

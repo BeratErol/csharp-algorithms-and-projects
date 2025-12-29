@@ -1,0 +1,10 @@
+C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Sinema_Büfe_Satis\bin\Debug\Sinema_Büfe_Satis.exe.config
+C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Sinema_Büfe_Satis\bin\Debug\Sinema_Büfe_Satis.exe
+C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Sinema_Büfe_Satis\bin\Debug\Sinema_Büfe_Satis.pdb
+C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.Form1.resources
+C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.Properties.Resources.resources
+C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.csproj.GenerateResource.cache
+C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.exe
+C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Sinema_Büfe_Satis\obj\Debug\Sinema_Büfe_Satis.pdb

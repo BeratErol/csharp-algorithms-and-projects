@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\NTP_Lab_Calismalari\bin\Debug\NTP_Lab_Calismalari.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\NTP_Lab_Calismalari\bin\Debug\NTP_Lab_Calismalari.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\NTP_Lab_Calismalari\bin\Debug\NTP_Lab_Calismalari.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\NTP_Lab_Calismalari\obj\Debug\SpiralMatris.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\NTP_Lab_Calismalari\obj\Debug\SpiralMatris.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\NTP_Lab_Calismalari\obj\Debug\NTP_Lab_Calismalari.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\NTP_Lab_Calismalari\obj\Debug\NTP_Lab_Calismalari.pdb

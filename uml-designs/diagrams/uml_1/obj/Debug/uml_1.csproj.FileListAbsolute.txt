@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\8.HaftaUygulamasi\uml_1\bin\Debug\uml_1.exe.config
+C:\Users\hesap\source\repos\8.HaftaUygulamasi\uml_1\bin\Debug\uml_1.exe
+C:\Users\hesap\source\repos\8.HaftaUygulamasi\uml_1\bin\Debug\uml_1.pdb
+C:\Users\hesap\source\repos\8.HaftaUygulamasi\uml_1\obj\Debug\uml_1.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\8.HaftaUygulamasi\uml_1\obj\Debug\uml_1.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\8.HaftaUygulamasi\uml_1\obj\Debug\uml_1.exe
+C:\Users\hesap\source\repos\8.HaftaUygulamasi\uml_1\obj\Debug\uml_1.pdb

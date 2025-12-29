@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\MatrisCarpimi\bin\Debug\MatrisCarpimi.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\MatrisCarpimi\bin\Debug\MatrisCarpimi.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\MatrisCarpimi\bin\Debug\MatrisCarpimi.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\MatrisCarpimi\obj\Debug\MatrisCarpimi.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\MatrisCarpimi\obj\Debug\MatrisCarpimi.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\MatrisCarpimi\obj\Debug\MatrisCarpimi.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\MatrisCarpimi\obj\Debug\MatrisCarpimi.csprojAssemblyReference.cache
