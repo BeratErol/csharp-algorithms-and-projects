@@ -6,7 +6,6 @@ Bu bölüm, C# dilini kullanarak geliştirilen karmaşık problemlerin çözüm 
 
 | Tasarım Kategorisi | Açıklama |
 | :--- | :--- |
-| **[temel-algoritmalar](./temel-algoritmalar/)** | Programlamanın temel taşları; döngüsel mantık ve akış yönetimi. |
 | **[matematiksel-algoritmalar](./matematiksel-algoritmalar/)** | Sayısal analizler, ileri matematiksel işlemler ve operatör öncelikli motorlar. |
 | **[diziler-ve-matrisler](./diziler-ve-matrisler/)** | Çok boyutlu veri yapıları üzerinde navigasyon ve veri manipülasyonu. |
 | **[karmasik-algoritma-senaryolari](./karmasik-algoritma-senaryolari/)** | Oyunlaştırılmış hikayeler üzerinden BFS, DFS, Backtracking ve Dinamik Programlama uygulamaları. |
