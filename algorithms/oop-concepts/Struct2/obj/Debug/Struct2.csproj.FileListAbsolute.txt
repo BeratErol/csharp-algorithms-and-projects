@@ -1,6 +1,0 @@
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct2\bin\Debug\Struct2.exe.config
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct2\bin\Debug\Struct2.exe
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct2\bin\Debug\Struct2.pdb
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct2\obj\Debug\Struct2.csproj.CoreCompileInputs.cache
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct2\obj\Debug\Struct2.exe
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct2\obj\Debug\Struct2.pdb
