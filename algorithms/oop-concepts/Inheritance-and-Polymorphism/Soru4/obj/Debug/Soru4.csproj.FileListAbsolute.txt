@@ -1,6 +1,0 @@
-C:\Users\hesap\source\repos\7.HaftaSorulari\Soru4\bin\Debug\Soru4.exe.config
-C:\Users\hesap\source\repos\7.HaftaSorulari\Soru4\bin\Debug\Soru4.exe
-C:\Users\hesap\source\repos\7.HaftaSorulari\Soru4\bin\Debug\Soru4.pdb
-C:\Users\hesap\source\repos\7.HaftaSorulari\Soru4\obj\Debug\Soru4.csproj.CoreCompileInputs.cache
-C:\Users\hesap\source\repos\7.HaftaSorulari\Soru4\obj\Debug\Soru4.exe
-C:\Users\hesap\source\repos\7.HaftaSorulari\Soru4\obj\Debug\Soru4.pdb

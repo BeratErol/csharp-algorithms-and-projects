@@ -1,9 +1,0 @@
-C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe.config
-C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe
-C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.pdb
-C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Form1.resources
-C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Properties.Resources.resources
-C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.GenerateResource.cache
-C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.CoreCompileInputs.cache
-C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.exe
-C:\Users\hesap\source\repos\CSharp_UdemyEgitimi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.pdb

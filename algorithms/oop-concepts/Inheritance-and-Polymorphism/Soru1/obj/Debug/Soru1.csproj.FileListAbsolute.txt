@@ -1,7 +1,0 @@
-C:\Users\hesap\source\repos\7.HaftaSorulari\Soru1\bin\Debug\Soru1.exe.config
-C:\Users\hesap\source\repos\7.HaftaSorulari\Soru1\bin\Debug\Soru1.exe
-C:\Users\hesap\source\repos\7.HaftaSorulari\Soru1\bin\Debug\Soru1.pdb
-C:\Users\hesap\source\repos\7.HaftaSorulari\Soru1\obj\Debug\Soru1.csprojAssemblyReference.cache
-C:\Users\hesap\source\repos\7.HaftaSorulari\Soru1\obj\Debug\Soru1.csproj.CoreCompileInputs.cache
-C:\Users\hesap\source\repos\7.HaftaSorulari\Soru1\obj\Debug\Soru1.exe
-C:\Users\hesap\source\repos\7.HaftaSorulari\Soru1\obj\Debug\Soru1.pdb

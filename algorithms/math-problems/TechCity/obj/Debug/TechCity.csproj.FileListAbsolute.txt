@@ -1,7 +1,0 @@
-C:\Users\hesap\source\repos\NTP_Lab_Calismalari\TechCity\obj\Debug\TechCity.csprojAssemblyReference.cache
-C:\Users\hesap\source\repos\NTP_Lab_Calismalari\TechCity\obj\Debug\TechCity.csproj.CoreCompileInputs.cache
-C:\Users\hesap\source\repos\NTP_Lab_Calismalari\TechCity\bin\Debug\TechCity.exe.config
-C:\Users\hesap\source\repos\NTP_Lab_Calismalari\TechCity\bin\Debug\TechCity.exe
-C:\Users\hesap\source\repos\NTP_Lab_Calismalari\TechCity\bin\Debug\TechCity.pdb
-C:\Users\hesap\source\repos\NTP_Lab_Calismalari\TechCity\obj\Debug\TechCity.exe
-C:\Users\hesap\source\repos\NTP_Lab_Calismalari\TechCity\obj\Debug\TechCity.pdb
