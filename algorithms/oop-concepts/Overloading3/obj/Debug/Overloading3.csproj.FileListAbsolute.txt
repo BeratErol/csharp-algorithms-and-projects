@@ -1,6 +1,0 @@
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Overloading3\bin\Debug\Overloading3.exe.config
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Overloading3\bin\Debug\Overloading3.exe
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Overloading3\bin\Debug\Overloading3.pdb
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Overloading3\obj\Debug\Overloading3.csproj.CoreCompileInputs.cache
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Overloading3\obj\Debug\Overloading3.exe
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Overloading3\obj\Debug\Overloading3.pdb
