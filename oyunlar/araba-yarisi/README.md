@@ -1,4 +1,4 @@
-# 🏎️ Araba Yarışı Oyunu (C# Windows Forms)
+# 🏎️ Araba Yarışı Oyunu (Car Racing Game)
 
 Bu proje, **C# Windows Forms** kullanılarak geliştirilmiş, retro tarzda bir **sonsuz sürüş (endless runner)** ve **kaçış (dodge)** oyunudur. Oyuncunun amacı, yoğun akan trafikte diğer araçlara çarpmadan mümkün olduğunca uzun süre hayatta kalmak ve en yüksek skoru elde etmektir.
 
