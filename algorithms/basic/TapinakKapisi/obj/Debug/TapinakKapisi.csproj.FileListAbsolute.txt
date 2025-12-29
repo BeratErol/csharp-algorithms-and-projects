@@ -1,0 +1,6 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\TapinakKapisi\obj\Debug\TapinakKapisi.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\TapinakKapisi\bin\Debug\TapinakKapisi.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\TapinakKapisi\bin\Debug\TapinakKapisi.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\TapinakKapisi\bin\Debug\TapinakKapisi.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\TapinakKapisi\obj\Debug\TapinakKapisi.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\TapinakKapisi\obj\Debug\TapinakKapisi.pdb

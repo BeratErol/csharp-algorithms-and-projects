@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\ZamanMakinesi\bin\Debug\ZamanMakinesi.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\ZamanMakinesi\bin\Debug\ZamanMakinesi.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\ZamanMakinesi\bin\Debug\ZamanMakinesi.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\ZamanMakinesi\obj\Debug\ZamanMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\ZamanMakinesi\obj\Debug\ZamanMakinesi.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\ZamanMakinesi\obj\Debug\ZamanMakinesi.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\ZamanMakinesi\obj\Debug\ZamanMakinesi.csprojAssemblyReference.cache

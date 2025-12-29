@@ -1,0 +1,6 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\UzayMadeni\bin\Debug\UzayMadeni.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\UzayMadeni\bin\Debug\UzayMadeni.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\UzayMadeni\bin\Debug\UzayMadeni.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\UzayMadeni\obj\Debug\UzayMadeni.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\UzayMadeni\obj\Debug\UzayMadeni.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\UzayMadeni\obj\Debug\UzayMadeni.pdb

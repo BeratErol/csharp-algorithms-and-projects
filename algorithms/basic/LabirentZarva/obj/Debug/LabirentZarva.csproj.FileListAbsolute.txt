@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\LabirentZarva\bin\Debug\LabirentZarva.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\LabirentZarva\bin\Debug\LabirentZarva.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\LabirentZarva\bin\Debug\LabirentZarva.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\LabirentZarva\obj\Debug\LabirentZarva.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\LabirentZarva\obj\Debug\LabirentZarva.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\LabirentZarva\obj\Debug\LabirentZarva.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\LabirentZarva\obj\Debug\LabirentZarva.csprojAssemblyReference.cache
