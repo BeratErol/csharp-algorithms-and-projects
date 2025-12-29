@@ -1,6 +1,0 @@
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Enum1\bin\Debug\Enum1.exe.config
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Enum1\bin\Debug\Enum1.exe
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Enum1\bin\Debug\Enum1.pdb
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Enum1\obj\Debug\Enum1.csproj.CoreCompileInputs.cache
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Enum1\obj\Debug\Enum1.exe
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Enum1\obj\Debug\Enum1.pdb
