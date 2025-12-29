@@ -128,15 +128,3 @@ Bu proje sayesinde:
 konularında pratik yapılabilir.
 
 ---
-
-## 🔮 Geliştirilebilir Özellikler
-
-* 🖼️ Adam asmaca görsel aşamaları
-* 🔊 Ses efektleri
-* 🏆 Skor sistemi
-* 🌍 Farklı kelime kategorileri (ülke, hayvan, meslek)
-* ⌨️ Klavye ile doğrudan harf girişi
-
----
-
-📌 **Not:** Bu oyun, C# Windows Forms kullanarak algoritma ve temel oyun mantığını öğrenmek isteyenler için hazırlanmış bir eğitim projesidir.
