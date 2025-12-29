@@ -1,23 +1,34 @@
-# 📊 Diziler ve Matrisler (Arrays & Matrices)
+# 📊 Diziler ve Matris Yapıları
 
-Bu klasör, C# programlama dili kullanılarak diziler ve çok boyutlu diziler (matrisler) üzerinde gerçekleştirilen temel ve ileri seviye algoritma çalışmalarını içerir.
+Bu dizin, C# dilinde tek boyutlu diziler (Arrays) ve çok boyutlu matrisler (Matrices) üzerinde veri manipülasyonu, istatistiksel hesaplama ve arama algoritmalarını içeren projeleri barındırır.
 
-## 📂 Proje İçerikleri
 
-Aşağıdaki tabloda bu bölümde yer alan algoritmalar ve kısa açıklamaları yer almaktadır:
 
-| Proje Adı | Açıklama |
-| :--- | :--- |
-| **Dizideki-Ardisik-Sayi-Gruplari** | Bir tam sayı dizisi içerisindeki ardışık sayıları (örn: 1,2,3) tespit ederek bunları gruplar halinde sunar. |
-| **Dizilerde-Ortalama-ve-Medyan** | Verilen bir sayı dizisinin aritmetik ortalamasını ve sıralı dizideki orta değer olan medyanı hesaplar. |
-| **Dizilerde-Siralama-ve-Kontrol** | Dizideki elemanları çeşitli yöntemlerle sıralar ve dizinin sıralı olup olmadığını kontrol eden mantıksal işlemleri içerir. |
-| **Matris-Carpimi** | Matematiksel matris çarpımı kurallarına uygun olarak iki matrisin çarpılmasını ve sonucun yeni bir matris olarak dönmesini sağlar. |
-| **Spiral-Matris** | Bir matrisin elemanlarını en dış katmandan başlayarak içeriye doğru bir spiral (yılan) düzeninde ekrana yazdırır. |
+## 📂 Proje Listesi ve Teknik İçerik
 
-## ⚙️ Gereksinimler ve Çalıştırma
-- .NET SDK (6.0 veya üzeri önerilir)
-- Visual Studio veya VS Code
+| Proje Adı | Veri Yapısı | Temel Algoritma / Teknik |
+| :--- | :--- | :--- |
+| **Ardisik-Sayi-Gruplayici** | `int[]` | Diziyi sıralama ve ardışık sayı bloklarını tespit etme. |
+| **Ortalama-ve-Medyan-Hesabi** | `List<int>` | Dinamik liste yönetimi, aritmetik ortalama ve medyan bulma mantığı. |
+| **Siralama-ve-Ikili-Arama** | `int[]` | **Binary Search (İkili Arama)** algoritması ile $O(\log n)$ karmaşıklığında veri bulma. |
+| **Matris-Carpimi** | `int[,]` | İki matrisin satır-sütun çarpımı ($n \times n$ matris çarpımı). |
+| **Spiral-Matris** | `int[,]` | Matris sınırlarını dinamik yöneterek spiral (saat yönünde) dolgu yapma. |
 
-Projeleri çalıştırmak için ilgili klasöre gidip `.csproj` dosyasını açabilir veya terminalden şu komutu kullanabilirsiniz:
-```bash
-dotnet run
+## 🚀 Öne Çıkan Algoritmalar
+
+### 🧩 Spiral Matris Dolgusu
+Matrisin dış sınırlarından başlayarak içe doğru saat yönünde dönen bir döngü ile sayıları yerleştirir. `ust`, `alt`, `sol`, `sag` olmak üzere 4 farklı sınır kontrolü içerir.
+
+
+
+### 🔍 İkili Arama (Binary Search)
+Sıralanmış bir dizide hedef elemanı bulmak için her adımda arama alanını yarıya indiren verimli bir yöntemdir. Karmaşıklığı $O(\log n)$ olması sebebiyle büyük verilerde çok hızlı sonuç verir.
+
+
+
+### 🔢 Matris Çarpımı
+İki matrisin çarpılabilmesi için gereken kuralı (birincinin sütun sayısının ikincinin satır sayısına eşitliği) baz alarak $n^3$ karmaşıklığında bir hesaplama motoru sunar.
+
+## 🛠️ Çalıştırma Notları
+- **Binary Search** uygulamasının çalışması için dizinin önce `Array.Sort()` ile sıralanması zorunludur.
+- **Spiral Matris** uygulaması, matris boyutuna göre (`n`) çıktıların okunabilirliğini artırmak için dinamik boşluklandırma (padding) yapar.
