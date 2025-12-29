@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Overloading1\bin\Debug\Overloading1.exe.config
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Overloading1\bin\Debug\Overloading1.exe
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Overloading1\bin\Debug\Overloading1.pdb
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Overloading1\obj\Debug\Overloading1.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Overloading1\obj\Debug\Overloading1.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Overloading1\obj\Debug\Overloading1.exe
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Overloading1\obj\Debug\Overloading1.pdb

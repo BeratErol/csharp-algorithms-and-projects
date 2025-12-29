@@ -1,0 +1,6 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\Polinom\bin\Debug\Polinom.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\Polinom\bin\Debug\Polinom.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\Polinom\bin\Debug\Polinom.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\Polinom\obj\Debug\Polinom.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\Polinom\obj\Debug\Polinom.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\Polinom\obj\Debug\Polinom.pdb

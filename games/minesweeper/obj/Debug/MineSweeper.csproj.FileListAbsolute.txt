@@ -1,0 +1,10 @@
+C:\Users\hesap\source\repos\Ntp_Lab_5.Hafta\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\hesap\source\repos\Ntp_Lab_5.Hafta\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\hesap\source\repos\Ntp_Lab_5.Hafta\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\Ntp_Lab_5.Hafta\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\hesap\source\repos\Ntp_Lab_5.Hafta\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\hesap\source\repos\Ntp_Lab_5.Hafta\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\hesap\source\repos\Ntp_Lab_5.Hafta\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\hesap\source\repos\Ntp_Lab_5.Hafta\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\hesap\source\repos\Ntp_Lab_5.Hafta\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\hesap\source\repos\Ntp_Lab_5.Hafta\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache

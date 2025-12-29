@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DzilerdeSiralamaVeKontrol\bin\Debug\DzilerdeSiralamaVeKontrol.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DzilerdeSiralamaVeKontrol\bin\Debug\DzilerdeSiralamaVeKontrol.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DzilerdeSiralamaVeKontrol\bin\Debug\DzilerdeSiralamaVeKontrol.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DzilerdeSiralamaVeKontrol\obj\Debug\DzilerdeSiralamaVeKontrol.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DzilerdeSiralamaVeKontrol\obj\Debug\DzilerdeSiralamaVeKontrol.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DzilerdeSiralamaVeKontrol\obj\Debug\DzilerdeSiralamaVeKontrol.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DzilerdeSiralamaVeKontrol\obj\Debug\DzilerdeSiralamaVeKontrol.pdb

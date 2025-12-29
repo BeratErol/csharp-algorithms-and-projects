@@ -1,0 +1,6 @@
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct1\bin\Debug\Struct1.exe.config
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct1\bin\Debug\Struct1.exe
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct1\bin\Debug\Struct1.pdb
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct1\obj\Debug\Struct1.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct1\obj\Debug\Struct1.exe
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct1\obj\Debug\Struct1.pdb

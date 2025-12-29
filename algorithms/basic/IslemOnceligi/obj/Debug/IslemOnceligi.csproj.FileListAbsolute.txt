@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\IslemOnceligi\bin\Debug\IslemOnceligi.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\IslemOnceligi\bin\Debug\IslemOnceligi.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\IslemOnceligi\bin\Debug\IslemOnceligi.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\IslemOnceligi\obj\Debug\IslemOnceligi.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\IslemOnceligi\obj\Debug\IslemOnceligi.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\IslemOnceligi\obj\Debug\IslemOnceligi.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\IslemOnceligi\obj\Debug\IslemOnceligi.csprojAssemblyReference.cache

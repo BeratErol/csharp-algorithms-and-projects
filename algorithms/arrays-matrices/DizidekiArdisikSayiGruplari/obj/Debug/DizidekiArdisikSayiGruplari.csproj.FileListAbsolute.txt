@@ -1,0 +1,6 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DizidekiArdisikSayiGruplari\bin\Debug\DizidekiArdisikSayiGruplari.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DizidekiArdisikSayiGruplari\bin\Debug\DizidekiArdisikSayiGruplari.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DizidekiArdisikSayiGruplari\bin\Debug\DizidekiArdisikSayiGruplari.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DizidekiArdisikSayiGruplari\obj\Debug\DizidekiArdisikSayiGruplari.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DizidekiArdisikSayiGruplari\obj\Debug\DizidekiArdisikSayiGruplari.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DizidekiArdisikSayiGruplari\obj\Debug\DizidekiArdisikSayiGruplari.pdb

@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DizilerdeOrtalamaMedyan\bin\Debug\DizilerdeOrtalamaMedyan.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DizilerdeOrtalamaMedyan\bin\Debug\DizilerdeOrtalamaMedyan.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DizilerdeOrtalamaMedyan\bin\Debug\DizilerdeOrtalamaMedyan.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DizilerdeOrtalamaMedyan\obj\Debug\DizilerdeOrtalamaMedyan.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DizilerdeOrtalamaMedyan\obj\Debug\DizilerdeOrtalamaMedyan.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DizilerdeOrtalamaMedyan\obj\Debug\DizilerdeOrtalamaMedyan.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\DizilerdeOrtalamaMedyan\obj\Debug\DizilerdeOrtalamaMedyan.pdb
