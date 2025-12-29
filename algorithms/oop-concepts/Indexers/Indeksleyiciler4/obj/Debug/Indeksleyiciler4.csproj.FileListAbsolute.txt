@@ -1,0 +1,6 @@
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Indeksleyiciler4\bin\Debug\Indeksleyiciler4.exe.config
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Indeksleyiciler4\bin\Debug\Indeksleyiciler4.exe
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Indeksleyiciler4\bin\Debug\Indeksleyiciler4.pdb
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Indeksleyiciler4\obj\Debug\Indeksleyiciler4.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Indeksleyiciler4\obj\Debug\Indeksleyiciler4.exe
+C:\Users\hesap\source\repos\6.HaftaUygulamasi\Indeksleyiciler4\obj\Debug\Indeksleyiciler4.pdb
