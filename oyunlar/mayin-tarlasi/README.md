@@ -1,4 +1,4 @@
-# 💣 Mayın Tarlası Oyunu (C# Windows Forms)
+# 💣 Mayın Tarlası Oyunu (Minesweeper)
 
 Bu proje, klasik **Minesweeper (Mayın Tarlası)** oyununun **C# Windows Forms** kullanılarak geliştirilmiş, algoritma ve mantık ağırlıklı modern bir masaüstü uygulamasıdır. Proje özellikle **dinamik kontrol oluşturma**, **matris tabanlı gezinme**, **komşuluk hesaplama** ve **Flood Fill (yayılma)** algoritmalarını öğretici bir örnek üzerinden ele alır.
 
