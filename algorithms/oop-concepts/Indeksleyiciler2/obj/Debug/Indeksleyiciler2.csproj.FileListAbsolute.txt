@@ -1,6 +1,0 @@
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Indeksleyiciler2\bin\Debug\Indeksleyiciler2.exe.config
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Indeksleyiciler2\bin\Debug\Indeksleyiciler2.exe
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Indeksleyiciler2\bin\Debug\Indeksleyiciler2.pdb
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Indeksleyiciler2\obj\Debug\Indeksleyiciler2.csproj.CoreCompileInputs.cache
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Indeksleyiciler2\obj\Debug\Indeksleyiciler2.exe
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Indeksleyiciler2\obj\Debug\Indeksleyiciler2.pdb
