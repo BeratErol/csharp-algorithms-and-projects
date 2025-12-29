@@ -1,0 +1,7 @@
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\4.HaftaUygulamasi\bin\Debug\4.HaftaUygulamasi.exe.config
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\4.HaftaUygulamasi\bin\Debug\4.HaftaUygulamasi.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\4.HaftaUygulamasi\bin\Debug\4.HaftaUygulamasi.pdb
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\4.HaftaUygulamasi\obj\Debug\4.HaftaUygulamasi.csprojAssemblyReference.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\4.HaftaUygulamasi\obj\Debug\4.HaftaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\4.HaftaUygulamasi\obj\Debug\4.HaftaUygulamasi.exe
+C:\Users\hesap\source\repos\NTP_Lab_Calismalari\4.HaftaUygulamasi\obj\Debug\4.HaftaUygulamasi.pdb
