@@ -1,6 +1,0 @@
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct3\bin\Debug\Struct3.exe.config
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct3\bin\Debug\Struct3.exe
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct3\bin\Debug\Struct3.pdb
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct3\obj\Debug\Struct3.csproj.CoreCompileInputs.cache
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct3\obj\Debug\Struct3.exe
-C:\Users\hesap\source\repos\6.HaftaUygulamasi\Struct3\obj\Debug\Struct3.pdb
