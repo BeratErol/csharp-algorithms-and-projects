@@ -89,6 +89,21 @@ Klasik **Mayın Tarlası (Minesweeper)** oyununun C# masaüstü uygulaması.
 
 ---
 
+### 🦆 6. Duck Hunt (Ördek Avı – Aim Trainer)
+
+📁 **Klasör:** `ördek-avi`
+
+Refleks ve isabet yeteneğini ölçen, dinamik zorluk seviyelerine sahip bir av simülasyonu.
+
+**Öne çıkan kavramlar:**
+
+* Dinamik zorluk seviyesi yönetimi (`Timer.Interval`)
+* Rastgele konumlandırma algoritması
+* İsabet oranı (Accuracy) hesaplama mantığı
+* Panel tabanlı arayüz geçişleri (Start / Game / Result)
+
+---
+
 ## 🛠️ Kullanılan Teknolojiler
 
 * **Dil:** C#
