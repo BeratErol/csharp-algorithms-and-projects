@@ -103,18 +103,6 @@ Oyun sona erdiğinde:
 
 ---
 
-## 📂 Proje Yapısı
-
-```
-DuckHuntGame/
-│
-├── Form1.cs              # Ana oyun mantığı ve event handler'lar
-├── Form1.Designer.cs     # UI bileşenlerinin tasarımı
-├── Program.cs            # Uygulama başlangıç noktası
-└── Resources/
-    └── duck.png          # Ördek görseli
-```
-
 ### Ana Bileşenler
 
 - **Form1.cs** - Oyun döngüsü, sayaçlar, timer yönetimi ve kullanıcı etkileşimleri
@@ -150,31 +138,10 @@ Bu proje aşağıdaki konuları kapsar:
 
 ---
 
-## 🎯 Geliştirme Fikirleri
-
-Projeyi genişletmek için öneriler:
-
-- 📊 **Accuracy Hesabı** - İsabet oranını görüntüleme
-- 🏆 **High Score Sistemi** - En yüksek skorları kaydetme
-- 🎵 **Ses Efektleri** - Tıklama ve oyun sonu sesleri
-- 🎨 **Animasyonlar** - Ördek hareket animasyonları
-- 🧠 **OOP Refactoring** - `DuckGameEngine` sınıfı ile modüler yapı
-- 📱 **Responsive Design** - Farklı ekran boyutlarına uyum
-- 💾 **Veritabanı Entegrasyonu** - Oyuncu profilleri ve istatistikleri
-
----
-
-## 📝 Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir ve serbestçe kullanılabilir.
-
----
-
 ## 👨‍💻 Geliştirici Notları
 
 Bu proje, zamanlayıcılar (Timer), rastgelelik (Random), olay tabanlı programlama ve kullanıcı etkileşimi konularını tek bir oyun senaryosu içerisinde birleştiren bir Windows Forms uygulamasıdır.
 
-**Versiyon:** 1.0  
 **Geliştirme Ortamı:** Visual Studio 2022, C# Windows Forms  
 **Hedef Framework:** .NET Framework 4.8
 
