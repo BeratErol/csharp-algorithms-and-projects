@@ -1,6 +1,6 @@
 # 🎮 C# Windows Forms Game Collection
 
-Bu depo, **C# Windows Forms** kullanılarak geliştirilmiş, temel oyun programlama kavramlarını öğretmeyi amaçlayan **5 farklı masaüstü oyunu** içermektedir. Her oyun, olay tabanlı programlama (event-driven), zamanlayıcılar (Timer), çarpışma algılama, rastgelelik (Random) ve kullanıcı etkileşimi gibi konuları uygulamalı olarak göstermektedir.
+Bu depo, **C# Windows Forms** kullanılarak geliştirilmiş, temel oyun programlama kavramlarını öğretmeyi amaçlayan **6 farklı masaüstü oyunu** içermektedir. Her oyun, olay tabanlı programlama (event-driven), zamanlayıcılar (Timer), çarpışma algılama, rastgelelik (Random) ve kullanıcı etkileşimi gibi konuları uygulamalı olarak göstermektedir.
 
 Bu koleksiyon özellikle:
 
