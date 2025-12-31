@@ -9,7 +9,6 @@ Bu bölüm, C# dilini kullanarak geliştirilen karmaşık problemlerin çözüm 
 | **[matematiksel-algoritmalar](./matematiksel-algoritmalar/)** | Sayısal analizler, ileri matematiksel işlemler ve operatör öncelikli motorlar. |
 | **[diziler-ve-matrisler](./diziler-ve-matrisler/)** | Çok boyutlu veri yapıları üzerinde navigasyon ve veri manipülasyonu. |
 | **[karmasik-algoritma-senaryolari](./karmasik-algoritma-senaryolari/)** | Oyunlaştırılmış hikayeler üzerinden BFS, DFS, Backtracking ve Dinamik Programlama uygulamaları. |
-| **[nesne-tabanli-programlama-oop](./nesne-tabanli-programlama-oop/)** | Gerçek dünya nesnelerinin sınıflar, kalıtım ve polimorfizm ile modellenmesi. |
 
 
 
